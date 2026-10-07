@@ -15,3 +15,5 @@ Hoy cree el proyecto de java y funciono todo
 Fecha 8 de Octubre
 
 Adicione el metodo de busqueda y todo se danio
+
+![alt text](<../assets/Captura de pantalla 2026-10-07 085038.png>)
